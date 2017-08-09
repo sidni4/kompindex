@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Malling advanced</title>
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="kompstyle.css" />
+
+</head><body class="screen">
+<div id="cont">
+<div id="header"> 
+  <h1><span id="header">Malling District U3A<img src="images/U3A_cropped_logo.jpg" alt="U3A logo" height="70" style="width: 150px; height: 70px;" /></span></h1>
+<!-- end #header --></div>
+<div id="mainContent">
+<h2> Advanced Computing Group</h2>
+<img src="images/u3a_panorama.jpg" width="700" height="364" alt="Open Day 2011" /> <br /> 
+Listen to the <a href="images/06 Track 06.mp3">track</a> we didn't hear after installing Ubuntu <br />
+<br />
+<table width="714" border="1" cellpadding="2" cellspacing="2" style="text-align: left; width: 696px; height: 83px;">
+  <tbody>
+    <tr>
+      <td width="457" style="vertical-align: top;">
+      <ul class="list1">
+        <li>We are a hands-on practical group<br />
+        </li>
+        <li>We meet on the third Tuesday of the month at 10 am<br />
+        </li>
+        <li>We welcome competent computer users who wish to learn more<br />
+        </li>
+        <li>Come along to a meeting to see if it suits you.</li>
+        <li>You must be a paid-up member of Malling District U3A<br />
+        </li>
+      </ul>
+      </td>
+      <td width="237" style="vertical-align: top;">
+      <ul class="list2">
+        <li><a href="kompindex.html">home page<br />
+          </a></li>
+        <li><a href="suggested topics.html">proposed meetings<br />
+        </a></li>
+        <li><a href="members_interests.html">members' interests<br />
+          </a></li>
+        <li><a href="about%20us.html">about us</a><br />
+        </li>
+        <li><a href="kompindex.html">contact</a><a href="kompindex.html#"><br />
+          </a></li>
+      </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p><a href="About.html">
+</a></p>
+<br />
+</div>
+<div id="footer">
+<p>Contact Us&nbsp;&nbsp;&nbsp; <a href="links.html">Links</a>&nbsp;&nbsp;&nbsp;
+<a href="Enrolment%20Form.html">Enrolment Form</a></p>
+<!-- end #footer --></div>
+<!-- end #cont --></div>
+
+</body></html>
